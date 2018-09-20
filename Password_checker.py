@@ -20,5 +20,3 @@ while x :
         break
 if x:
     print ("Sorry! your password is incorrect")
-#while loop  used when a condition is to be repeated in code form forever
-#
